@@ -1,3 +1,7 @@
+
+Milestone 1 submission for Infosys Project
+
+
 ClimateScope – Weather Analytics Web App
 
 ClimateScope is a Streamlit-based web application that visualizes global weather trends through interactive dashboards and country-wise analysis. The app is designed for easy exploration of climate data with dynamic charts, metrics, and live visual updates.
