@@ -5,7 +5,7 @@ ClimateScope is a Streamlit-based web application that visualizes global weather
 🚀 Live Application
 
 🔗 Streamlit Cloud Deployment
-https://project-hr32nvltutyhjjrmcad6fb.streamlit.app/
+https://project-798axcjgaxfcklyfnwicka.streamlit.app/
 
 💻 GitHub Repository
 
